@@ -20,6 +20,10 @@ const nextConfig = {
         source: "/api/movies",
         destination: `https://api.themoviedb.org/3/movie/popular?api_key=${API_KEY}`,
       },
+      {
+        source: "/api/movies/:id", // source에 들어가는 변수명과 destination에 들어가는 변수명이 일치해야함!
+        destination: `https://api.themoviedb.org/3/movie/:id?api_key=${API_KEY}`,
+      },
     ];
   },
 };
