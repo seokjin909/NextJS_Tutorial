@@ -31,6 +31,7 @@ async rewrites() {
     ];
   },
 </p>
+
 # Server Side Rendering
 
 <h4>getServerSideProps</h4>

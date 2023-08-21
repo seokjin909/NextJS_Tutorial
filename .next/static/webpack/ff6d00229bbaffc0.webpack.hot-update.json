@@ -1,0 +1,1 @@
+{"c":["webpack"],"r":["pages/movies/[...params]"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=%2FUsers%2Fsoseokjin%2FDesktop%2FNextJS%2Fpages%2Fmovies%2F%5B...params%5D.js&page=%2Fmovies%2F%5B...params%5D!","./pages/movies/[...params].js"]}
